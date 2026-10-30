@@ -1,4 +1,4 @@
-<img width="1238" height="2268" alt="image" src="https://github.com/user-attachments/assets/25154dac-ac13-458c-9dd8-2c48041ab0aa" /># choijy-scm
+choijy-scm
 SCM_control_tower
 # SCM Control Tower
 
