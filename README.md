@@ -1,5 +1,3 @@
-choijy-scm
-SCM_control_tower
 # SCM Control Tower
 
 물류센터 재고, 품절, 발주 데이터를 통합 관리하는 SCM 관제 시스템
